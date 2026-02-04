@@ -1,0 +1,10 @@
+{
+    "ModelName": "Cylinder",
+    "TextureName": "container.jpg",
+    "ShaderProgramName": "UnlitTexturedShader",
+    "IsBasicShape": true,
+    "ShapeType": "Cylinder",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Euler": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+}

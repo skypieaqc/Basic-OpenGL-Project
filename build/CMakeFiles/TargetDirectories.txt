@@ -1,0 +1,3 @@
+C:/Users/guts/Desktop/Bilgisayar Grafikleri/proje/build/CMakeFiles/proje.dir
+C:/Users/guts/Desktop/Bilgisayar Grafikleri/proje/build/CMakeFiles/edit_cache.dir
+C:/Users/guts/Desktop/Bilgisayar Grafikleri/proje/build/CMakeFiles/rebuild_cache.dir

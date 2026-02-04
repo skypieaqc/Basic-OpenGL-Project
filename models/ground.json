@@ -1,0 +1,10 @@
+{
+    "ModelName": "GroundBase",
+    "TextureName": "ground.jpg", 
+    "ShaderProgramName": "UnlitTexturedShader",
+    "IsBasicShape": false,     
+    "MeshFile": "cube.mesh",
+    "Position": [ 0.0, 0.0, 0.0 ],
+    "Euler": [ 0.0, 0.0, 0.0 ],
+    "Scale": [ 1.0, 1.0, 1.0 ]
+}
