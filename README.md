@@ -1,0 +1,9 @@
+Libraries
+->GLFW
+->glm
+->imgui
+->nlohmann
+->OpenFBX
+->Polyline2D
+->spdlog
+->stb
